@@ -1,3 +1,5 @@
+# gna_comms
+
 - [ ] /rp command - Does a global action (a message sent to every player). Takes a greedy string argument as player message.
 - [ ] /lrp command - Does a local action (a message sent to players in a configurable range). Takes a greedy string argument as player message.
 - [ ] /comms command - Sends a message to all players. Takes a greedy string argument as player message.
